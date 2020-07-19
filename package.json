@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "Admin-bot for html.mentor's Telegram",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Wosduch/html-mentor-telegram-admin-bot.git"
