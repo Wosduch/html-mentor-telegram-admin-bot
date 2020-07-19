@@ -1,0 +1,23 @@
+{
+  "name": "html-mentor-telegram-admin-bot",
+  "version": "0.1.0",
+  "description": "Admin-bot for html.mentor's Telegram",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wosduch/html-mentor-telegram-admin-bot.git"
+  },
+  "keywords": [
+    "Telegram",
+    "bot",
+    "admin",
+    "html-mentor"
+  ],
+  "author": "Wosduch",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Wosduch/html-mentor-telegram-admin-bot/issues"
+  },
+  "homepage": "https://github.com/Wosduch/html-mentor-telegram-admin-bot#readme"
+}
